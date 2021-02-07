@@ -1,0 +1,44 @@
+{# BetterDiscordPanel - Chinese Traditional (Hong Kong + Macau)
+{# BetterDiscordPanel-繁體中文（香港+澳門）
+    
+	
+	"welcome": "您好，歡迎來到BetterDiscordPanel ", 
+    "select_option": "選擇您要運行的選項.",
+ 
+    "start_web": "網頁-BetterDiscordPanel",
+    "start_desktop": "桌面應用程序-BetterDiscordPanel",
+
+    "support": "援助",
+    "settings": "設定值",
+    "update": "檢查更新的新版本",
+    "language": "語言",
+    "go_back": "回去",
+    "done": "準備",
+    "exit": "離開",
+
+    "discordserver": "Discord服務器",
+    "submit_issue": "發送問題/錯誤報告/建議",
+
+    "betterdiscordpanel_help":"在默認瀏覽器中啟動BetterDiscordPanel.",
+    "desktop_panel_help": "在應用程序中停靠BetterDiscordPanel.",
+    "settings_help": "打開BetterDiscordPanel設置。",
+    "exit_help": "退出該腳本。",
+    "support_help": "有對BetterDiscordPanel的援助",
+    "update_help": "將BetterDiscordPanel更新為最新的可用版本。",
+    "language_help": "選擇BetterDiscordPanel的語言",
+    "go_back_help": "返回選擇面板。",
+    "discord_help": "在默認瀏覽器中打開Discord援助服務器。",
+    "issue_help": "在GitHub上提交問題/錯誤報告/建議",
+    "get_help": "獲取有關BetterDiscordPanel的幫助",
+
+    "check_installation": "檢查是否已正確安裝BetterDiscordPanel。",
+    "checking_failure": "系統檢查",
+    "checking_system": "檢查BetterDiscordPanel系統...",
+    "check_success": "系統檢查成功。",
+    "updating": "BetterDiscordPanel更新正在進行中...",
+    "updating_failure": "無法更新BetterDiscordPanel，出現錯誤",
+    "check_index": "確保存在index.html文件。",
+    "check_main": "驗證是否存在main.js文件。",
+    "check_repo_download_method": "克隆存儲庫，然後重試",
+    "booting": "正在加載BetterDiscordPanel ..."
+}
